@@ -1,3 +1,5 @@
+# Better Code Hub Scoreboard
+
 | 2017        | BCH score |          
 | ------------- |:-------------:| 
 | got_team_11      | [![BCH compliance](https://bettercodehub.com/edge/badge/gameoftrades/got-team11?branch=master&token=798bcb5a5479f2e3116c789552ba828824b56e91)](https://bettercodehub.com/)| 
