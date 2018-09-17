@@ -1,8 +1,6 @@
 
 <h1>Service by SIG.eu to evaluate Code Quality</h1>
 
-De Haagse Hogeschool, Faculteit IT & Design.
-
 When: September 2018
 
 
