@@ -1,7 +1,7 @@
 
 <h1>Online Service by Software Improvement Group (SIG.eu) to Evaluate Code Quality</h1>
 
-De Haagse Hogeschool, Faculteit IT & Design
+De Haagse Hogeschool, Faculteit IT & Design.
 
 When: September 2018
 
