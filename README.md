@@ -40,7 +40,7 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 
 4. Enable Push & Pull Request support by clicking on the PR icon on the card
 
-5. Send me a PR tp add your badge code to be added to the scoreboard. [here](https://gameoftrades.github.io/gameoftrades/scoreboard)
+5. Send me a PR to add your badge code to be added to the scoreboard. [here](https://gameoftrades.github.io/gameoftrades/scoreboard)
 
 
 ## How to get support.
