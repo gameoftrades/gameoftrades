@@ -27,20 +27,20 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 
 4. Your repository gets a score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
 
-5. All the scores are here on this [scoreboard](https://github.com/gameoftrades/gameoftrades-bettercodehub/blob/master/1.%20scoreboard.md)
+5. All the scores are here on this [scoreboard](https://gameoftrades.github.io/gameoftrades/scoreboard)
 
 
 ## How to get started.
 
 1. Make sure that you are a member of [GameofTrades](https://github.com/gameoftrades). Membership of the gameoftrades organization allows you to store and analyse private repo's on GitHub.
 
-2. Visit [bettercodehub.com](https://bettercodehub.com) and accept the scopes, please!
+2. Visit [bettercodehub.com](https://bettercodehub.com) and accept the 3 scopes, please!
 
 3. Press Play button to get instant feedback on the 10 guidelines, browse the report, pick refactor candidates and turn them into GitHub Issues.
 
 4. Enable Push & Pull Request support by clicking on the PR icon on the card
 
-5. Send your badge code to be added to the scoreboard. [here](https://github.com/gameoftrades/gameoftrades-bettercodehub/blob/master/1.%20scoreboard.md)
+5. Send me a PR tp add your badge code to be added to the scoreboard. [here](https://gameoftrades.github.io/gameoftrades/scoreboard)
 
 
 ## How to get support.
