@@ -3,6 +3,8 @@
 
 When: September 2018
 
+How: Online with [BetterCodeHub.com](https://bettercodehub.com)
+
 
 ## Why evaluate your code? 
 
@@ -25,7 +27,11 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 
 4. Your repository gets a score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
 
-5. All the scores are here on this [scoreboard](https://gameoftrades.github.io/gameoftrades/scoreboard)
+5. Find your scores inside the GitHub conversation flow at the commits and pull request per branch.
+
+6. Press play in the BetterCodeHub interface and run your analysis on master.
+
+7. All the scores are here on this [scoreboard](https://gameoftrades.github.io/gameoftrades/scoreboard)
 
 
 ## How to get started.
@@ -34,7 +40,7 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 
 2. Visit [bettercodehub.com](https://bettercodehub.com) and accept the 3 scopes, please!
 
-3. Press Play button to get instant feedback on the 10 guidelines, browse the report, pick refactor candidates and turn them into GitHub Issues.
+3. Press Play button to get the first feedback on the 10 guidelines, browse the report, pick refactor candidates and turn them into GitHub Issues.
 
 4. Enable Push & Pull Request support by clicking on the PR icon on the card
 
