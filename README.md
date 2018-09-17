@@ -38,13 +38,13 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 
 1. Make sure that you are a member of [GameofTrades](https://github.com/gameoftrades). Membership of the gameoftrades organization allows you to store and analyse private repo's on GitHub.
 
-2. Visit [bettercodehub.com](https://bettercodehub.com) and accept the 3 scopes, please!
+2. Visit [bettercodehub.com](https://bettercodehub.com), login with your GitHub handle and accept the 3 scopes, please!
 
 3. Press Play button to get the first feedback on the 10 guidelines, browse the report, pick refactor candidates and turn them into GitHub Issues.
 
-4. Enable Push & Pull Request support by clicking on the PR icon on the card
+4. Enable Push & Pull Request support by clicking on the PR icon on the card, this will make BetterCodeHub analyse your commits and pull requests.
 
-5. Send me a PR to add your badge code to be added to the scoreboard. [here](https://gameoftrades.github.io/gameoftrades/scoreboard)
+5. Send a PR to add your badge code to be added to the scoreboard.md
 
 
 ## How to get support.
