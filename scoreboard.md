@@ -1,23 +1,14 @@
 # Better Code Hub Scoreboard
 
-| 2017        | BCH score |          
-| ------------- |:-------------:| 
-| got_team_11      | [![BCH compliance](https://bettercodehub.com/edge/badge/gameoftrades/got-team11?branch=master&token=798bcb5a5479f2e3116c789552ba828824b56e91)](https://bettercodehub.com/)| 
-| got_team12     | [![BCH compliance](https://bettercodehub.com/edge/badge/gameoftrades/got-team12?branch=master&token=9db42619c4b54b71bc482cb4ab2fc7f0af4133ab)](https://bettercodehub.com/)|  
 
 
 | 2018        | BCH score |          
 | ------------- |:-------------:| 
-| got_team_01   | | 
-| got_team_02   | |  
-| got_team_03   | | 
-| got_team_04   | |
-| got_team_05   | |
-| got_team_06   | |
-| got_team_07   | |
-| got_team_08   | |
-| got_team_09   | |
-| got_team_10   | |
+| got18-team25   | [![BCH compliance](https://bettercodehub.com/edge/badge/gameoftrades/got18-team28?branch=master&token=d6faf7e4049ac31df5db70eb49f2ef9b3aa377bb)](https://bettercodehub.com/) | 
+| ............   | |  
+| ............   | | 
+| ............   | |
+
 
 
 
