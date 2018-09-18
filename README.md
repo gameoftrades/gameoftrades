@@ -62,6 +62,9 @@ Why Blockhain [needs high quality code ](https://medium.com/@jstvssr/why-blockch
 
 And this post on how [Dutch Blockchain Hackathon](https://dev.to/jstvssr/how-a-hackathon-appreciates-quality-code) appreciated quality code.
 
+What are common [pitfalls of metrics?](https://queue.acm.org/detail.cfm?id=2229115)  
+
+A different code [quality philiosophy](https://medium.com/softwareimprovementgroup/constraints-that-drive-creativity-6645377ca3c)
 
 
 Let's build some great software !!
