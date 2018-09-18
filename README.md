@@ -17,6 +17,7 @@ Based on 15+ years of research and tens of thousands of measurements on IT syste
 A clean codebase keeps development velocity high and makes it easy for developers to start contributing. Better Code Hub indicates just the right amount of refactoring needed to keep it compliant.
 Better Code Hub checks your code for compliance against 10 benchmarked software engineering guidelines. It gives immediate feedback on where to focus for quality improvements. 16 modern programming languages are supported.
 
+
 ## Evaluating your code by using Better Code Hub (BCH).
 
 1. Your code will be automatically evaluated and benchmarked against 10 guidelines for building future-proof code. Find a concise reference card of the guidelines [here](https://cdn-images-1.medium.com/max/1200/1*TS-ZTeI7sQS7dy_AlMqSXQ.png)
@@ -30,8 +31,6 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 5. Find your scores inside the GitHub conversation flow at the commits and pull request per branch.
 
 6. Press play in the BetterCodeHub interface and run your analysis on master.
-
-7. All the scores are here on this [scoreboard](https://gameoftrades.github.io/gameoftrades/scoreboard)
 
 
 ## How to get started.
