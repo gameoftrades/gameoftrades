@@ -24,13 +24,13 @@ Better Code Hub checks your code for compliance against 10 benchmarked software 
 
 2. You can check your code against the guidelines using [Better Code Hub](https://bettercodehub.com), a GitHub integration provided by [Software Improvement Group SIG](https://www.sig.eu/better-code-hub/). Better Code Hub integrates with the GitHub Flow and can easily run in your CI/CD pipeline on all your Pull Requests and commits.
 
-3. 16 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
+3. 17 modern programming languages are [supported](https://bettercodehub.com/docs/configuration-manual) with a maximum of 200 KLoc per code base.
 
 4. Your repository gets a score in Better Code Hub. The more guidelines you get right, the higher the score. The maximum is 10 out of 10. All guidelines are equally important so please aim for a 10 for new codebases.
 
 5. Find your scores inside the GitHub conversation flow at the commits and pull request per branch.
 
-6. Press play in the BetterCodeHub interface and run your analysis on master.
+6. Press play in the BetterCodeHub.com interface to run your analysis on master.
 
 
 ## How to get started.
