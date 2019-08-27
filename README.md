@@ -1,9 +1,13 @@
 
-<h1>Service by SIG.eu to evaluate Code Quality</h1>
+<h1>Better Code Hub (BCH) tool for Github </h1>
 
-When: September 2018
+What: Service to evaluate Code Quality
+
+When: September 2019
 
 How: Online with [BetterCodeHub.com](https://bettercodehub.com)
+
+Who: Software Improvement Group (SIG.eu)
 
 
 ## Why evaluate your code? 
