@@ -13,7 +13,7 @@ Who: Software Improvement Group (SIG.eu)
 
 ## How does improving Code Quality help me? 
 
-You will spend less time fixing bugs. And have more time to ship new features.
+You will spend less time fixing bugs. And have more time to ship new features. In Dutch: [Waarom software van gioede kwaliteit goedkoper is](https://www.computable.nl/artikel/blogs/digital-innovation/6689726/5260614/waarom-software-van-goede-kwaliteit-goedkoper-is)
 
 It is amazing to see how far our industry has come over the past decades. New technologies, frameworks, agile processes - some of which were only recently invented - now define the way we work today. One prominently missing building block in the modern development setup is a standardised way to normatively measure code quality - a SMART 'Definition of Done' shared by all developers. That is what the company SIG wanted to solve.
 
