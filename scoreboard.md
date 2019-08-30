@@ -4,7 +4,7 @@ not here
 
 | 2018        | BCH score |          
 | ------------- |:-------------:| 
-| team 21   | |  
+| team 21   | [![BCH compliance](https://bettercodehub.com/edge/badge/MichielCuijpers/training-assignments-advanced?branch=master)](https://bettercodehub.com/)|  
 | ............   | | 
 | ............   | |
 
